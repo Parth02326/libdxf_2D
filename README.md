@@ -1,6 +1,6 @@
 libdxf_2D
 
-libdxf_2D.so is a CAD library made in C++.
+libdxf_2D.so is a CAD library made with C++.
 This library is used to write DXF file that can be opened in LibreCAD 1.0.2.
 It contains four entities - arc, circle, line and rectangle to create DXF output and custom multiple layer support.
 It also supports hatching and . <br />
